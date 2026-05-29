@@ -1,4 +1,4 @@
-# cindy_muniz
+# cindy-muniz
 # 💫 About Me:
 Computer Science student at Georgia Tech
 
