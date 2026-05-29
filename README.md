@@ -1,9 +1,9 @@
 # Cindy Muniz
 # 💫 About Me:
 Computer Science Student at Georgia Tech
-/nBilingual in English and Spanish
-/nCareer Driven and Community Oriented
-/nGates Scholar | Questbridge Scholar | HSF Scholar
+\nBilingual in English and Spanish
+\nCareer Driven and Community Oriented
+\nGates Scholar | Questbridge Scholar | HSF Scholar
 
 
 ## 🌐 Socials:
